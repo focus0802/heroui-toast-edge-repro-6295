@@ -1,0 +1,8 @@
+{
+  "title": "HeroUI Toast Edge Repro",
+  "description": "Minimal reproduction for HeroUI Toast jank/freezes in Edge with the default ToastQueue update wrapper.",
+  "installDependencies": true,
+  "startCommand": "npm run dev",
+  "view": "browser",
+  "openFile": "src/App.tsx"
+}
